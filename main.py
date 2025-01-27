@@ -19,7 +19,7 @@ inputData = []
 outputData = []
 def getInput():
     global inputData
-    with open('data.txt', mode='r') as file:
+    with open('data/input_data.txt', mode='r') as file:
         lines = file.readlines()
         for line in lines:
             inputData.append(line.replace("\n", "").replace("/", ""))
