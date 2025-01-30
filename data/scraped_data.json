@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Accountant",
+        "blsPage": "Accountants and Auditors : Occupational Outlook Handbook: : U.S. ...",
+        "blsSalary": "$79,880 per year - $38.41 per hour",
+        "glassDoorPage": "How much does an Accountant make?",
+        "glassDoorMedianTotalPay": "$87K",
+        "glassDoorRangeBasePay": "$59K - $95K",
+        "glassDoorTotalPayRange": "$68K - $111K"
+    },
+    {
+        "name": "Software Engineer",
+        "blsPage": "Software Developers, Quality Assurance Analysts, and Testers ...",
+        "blsSalary": "$130,160 per year - $62.58 per hour",
+        "glassDoorPage": "How much does a Software Engineer make?",
+        "glassDoorMedianTotalPay": "$162K",
+        "glassDoorRangeBasePay": "$96K - $146K",
+        "glassDoorTotalPayRange": "$129K - $208K"
+    }
+]
